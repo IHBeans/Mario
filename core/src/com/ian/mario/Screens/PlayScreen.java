@@ -10,12 +10,13 @@ public class PlayScreen implements Screen {
     private MarioGame game;
     Texture texture;
 
-    public PlayScreen (MarioGame game){
+    public PlayScreen(MarioGame game) {
         this.game = game;
     }
+
     @Override
     public void show() {
-
+        //TEST 1
     }
 
     @Override
