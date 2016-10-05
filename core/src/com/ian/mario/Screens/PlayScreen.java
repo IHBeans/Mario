@@ -24,8 +24,7 @@ public class PlayScreen implements Screen {
 
     @Override
     public void show() {
-        //TEST 1
-        //Local test
+
     }
 
     @Override
