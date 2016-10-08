@@ -30,6 +30,7 @@ public class Hud {
         worldTimer = 300;
         timeCount = 0;
         score = 0;
+
         viewport = new FitViewport(Constants.V_WIDTH, Constants.V_HEIGHT, new OrthographicCamera());
         stage= new Stage(viewport, spriteBatch);
 
